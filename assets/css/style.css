@@ -870,6 +870,32 @@ main {
   border-radius: inherit;
 }
 
+.internship-card {
+  background-color: #1e1e1e;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(255, 215, 0, 0.1);
+  border-left: 4px solid rgb(246, 229, 131);
+}
+
+.internship-card h3 {
+  color: rgb(243, 233, 173);
+  margin-bottom: 12px;
+  font-size: 18px;
+}
+
+.internship-card ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.internship-card li {
+  margin-bottom: 6px;
+  color: #ccc;
+  font-size: 14px;
+}
 
 
 
